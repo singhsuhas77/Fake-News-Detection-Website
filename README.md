@@ -13,7 +13,7 @@ This project is a web-based application designed to detect and classify fake new
 * **Accurate Prediction**: Utilizes a trained **Passive Aggressive Classifier** model to achieve high accuracy in detecting fake news.
 * **Simple Web Interface**: A clean and user-friendly interface built with **Flask** that allows for easy text input and clear presentation of the prediction results.
 * **NLP Pipeline**: Implements a robust text processing pipeline including stopword removal and TF-IDF vectorization to analyze news content effectively.
-* **Scalable Backend**: Built with a lightweight and efficient Flask server.
+* **Scalable Backend**: Built with a lightweight and efficient Flask server. 
 
 ---
 
